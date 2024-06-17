@@ -565,6 +565,14 @@ section {
   font-family: "Poppins", sans-serif;
   color: #0563bb;
   margin-bottom: 10px;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  .resume .resume-item h4 {
+      height: 15px;
+      width: 400px;
+  }
 }
 
 .resume .resume-item h5 {
