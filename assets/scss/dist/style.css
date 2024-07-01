@@ -1167,3 +1167,17 @@ section {
     margin-left: 0px !important;
   }
 }
+@media (min-width: 1445px) {
+  .container {
+    max-width: 100%;
+  }
+
+  .imagetheo {
+    display: flex;
+    justify-content: end;
+  }
+
+  .cvTheo {
+    margin-left: 13%;
+  }
+}
